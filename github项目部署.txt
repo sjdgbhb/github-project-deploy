@@ -1,0 +1,10 @@
+1、github 创建仓库
+	settings-Github Pages-source-None-master branch
+2、新建本地仓库（创建一个文件夹）
+3、git bash 进入本地仓库，克隆github仓库
+	git clone ...
+4、将项目文件复制进本地仓库
+5、git add .
+	git commit -m '...'
+	git pull
+	git push
